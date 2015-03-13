@@ -9,11 +9,14 @@ years examples.
 
 * Tutorial Topic
 
-Last year when I asserted that social scientists were
-under-represented at SciPy, someone asked me if I had data. So, I
-asked the crow how many social scientists were there, and about 3
-people raised their hands. How can we get these people in the door? By
-holding a tutorial for them!
+Economics, Sociology and Psychology are becoming increasingly
+computational. Yet, these fields do not always even agree on let alone
+employ best practices. Last year when I asserted that social
+scientists were under-represented at SciPy, someone asked me if I had
+data. So, I asked the crow how many social scientists were there, and
+about 3 people raised their hands. How can we get these people in the
+door? Exposure to scientific python will helpp these fields develope
+rigorous computational practice. We should hold a tutorial for them!
 
 * Student's Python Knowledge Level
 
