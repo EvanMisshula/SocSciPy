@@ -1,5 +1,54 @@
-#+Title: Github Workshop Spring 2015
-#+Author: Evan Misshula
+#+Title: Scientific Python for Social Science
+#+Author: Dav Clark
+
+* SciPy 2015 Tutorial Proposal
+
+What is the topic of your tutorial? Who will this be most useful for?
+Please explain briefly at a high level. For ideas, please see last
+years examples.
+
+* Tutorial Topic
+
+Last year when I asserted that social scientists were
+under-represented at SciPy, someone asked me if I had data. So, I
+asked the crow how many social scientists were there, and about 3
+people raised their hands. How can we get these people in the door? By
+holding a tutorial for them!
+
+* Student's Python Knowledge Level
+
+- Beginner
+
+* Please provide a more detailed abstract of your tutorial (again, see last years tutorials).
+
+Unlike the STEM crowd that dominates SciPy, computational skills are
+not a standard part of social science curricula. We will provide a
+overview of often assumed knowledge: filesystems and databases; text
+editors, IDEs, and graphical debugging; command line and notebook
+interfaces to Python; the basics of how data is organized on disk, how
+it's communicated over networks, and how it's loaded into memory; and
+fundamental data structures. We'll keep things interesting by using
+data that's interesting to a social scientist: simpl web-scraping,
+text analysis of hip-hop lyrics, crime mapping, and economic
+time-series visualization. You are also welcome to join, even if
+you're coming from a STEM background, if you'd like to get some ideas
+about how to train folks from other backgrounds!
+
+* Give us a short bio, including relevant teaching experience. If you have recorded talks or tutorials available online, please include links.
+
+Dav Clark has developed and taught a variety of data science topics to
+social scientists at the UC Berkeley D-Lab, and more recently at the
+Berkeley Institute for Data Science. He has shepherded the campus
+python community over the past year, more recently encouraging STEM
+folks to join The Hacker Within, while shifting gears to more "social
+computing." Evan Misshula is a Data Scientist at the John Jey Research
+and Evaluation Center at the City University of New York. He is an
+active member of the New York R and Pytho communities, and avidly
+publishes tutorials on python and other topics here:
+http://www.misshula.org/category/tutorials.html
+http://conference.scipy.org/proceedings/scipy2014/clark.html (note
+frequent laughter from the audience)
+
 
 * Introduction 
 This is the repo for Github Workshop, Spring 2015, you have to add a
