@@ -7,7 +7,6 @@
 <li><a href="#sec-3">3. Student's Python Knowledge Level</a></li>
 <li><a href="#sec-4">4. Please provide a more detailed abstract of your tutorial (again, see last years tutorials).</a></li>
 <li><a href="#sec-5">5. Give us a short bio, including relevant teaching experience. If you have recorded talks or tutorials available online, please include links.</a></li>
-<li><a href="#sec-6">6. Introduction</a></li>
 </ul>
 </div>
 </div>
@@ -60,26 +59,3 @@ publishes tutorials on python and other topics here:
 <http://www.misshula.org/category/tutorials.html>
 <http://conference.scipy.org/proceedings/scipy2014/clark.html> (note
 frequent laughter from the audience)
-
-# Introduction<a id="sec-6"></a>
-
-This is the repo for Github Workshop, Spring 2015, you have to add a
-directory and upload a picture of your face.
-
-This is the README file for homework #1.  Everyone is going to create
-a fork of this repository and create a directory whose name is
-
-`firstName_lastName`
-
-where your last name is separated from your first with an underscore
-"\_".  For example, my name is Evan Misshula. My directory would be:
-
-`Evan Misshula`
-
- Once you have done this copy a picture of your face into the
-directory.  Next you will send me a pull request from your branch to
-add it to the repo. If you have a team that consists of more than the
-person who has uploaded the file, please send me a picture of everyone
-on your team. Name the pictures with your individual names.
-
-Read on for details.
